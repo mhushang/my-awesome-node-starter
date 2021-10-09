@@ -1,0 +1,14 @@
+{
+    "env": "development",
+    "dbConfig": {
+        "host": "localhost",
+        "user": "postgres",
+        "password": "",
+        "database": "",
+        "pool": {
+            "min": 0,
+            "max": 5
+        }
+    },
+    "secretKey": "secretKey"
+}
